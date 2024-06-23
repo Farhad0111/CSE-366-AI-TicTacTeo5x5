@@ -1,9 +1,16 @@
 CSE366: Game Based Assignment
+#################################################################################################
+
 Necessary Knowledge Required
+#################################################################################################
 Game Tree, Backtracking, State Saving in games, Alpha Beta Pruning. 
+
 Team Formation 
+#################################################################################################
 There will be at most three members in each group. More than that will not be allowed. 
+
 Game 1: Tic Tac Toe 
+#################################################################################################
 You need to implement the famous two player game Tic Tac Toe using your preferred language. Here the 
 main change is that, the board of the game is not 3 x 3 but 5 x 5. A player wins if he can match his drawn 
 symbols in consecutive three cells either vertically or horizontally or diagonally, the generic winning 
