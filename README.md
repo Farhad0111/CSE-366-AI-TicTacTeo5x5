@@ -2,11 +2,13 @@ CSE366: Game Based Assignment
 
 #############################
 
+
 Necessary Knowledge Required
 
 ############################
 
 Game Tree, Backtracking, State Saving in games, Alpha Beta Pruning. 
+
 
 Team Formation 
 
@@ -14,7 +16,9 @@ Team Formation
 
 There will be at most three members in each group. More than that will not be allowed. 
 
+
 Game 1: Tic Tac Toe 
+
 ###################
 
 You need to implement the famous two player game Tic Tac Toe using your preferred language. Here the 
