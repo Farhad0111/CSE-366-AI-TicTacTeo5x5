@@ -41,3 +41,5 @@ the report needs to following,
 2. Formal algorithm writeup and discussion how the problem is approached 
 3. Conclusion that will state the challenges that you have faced and the topics that you have learnt 
 during implementing the idea. 
+
+![image](https://github.com/Farhad0111/CSE-366-AI-TicTacTeo5x5/assets/109299643/b697590f-3247-4d35-aa05-a579fad63337)
